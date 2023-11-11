@@ -3,32 +3,12 @@ Standard Web App for DevFest India's Communties. <br>
 
 
 ## List Your DevFest
-```json
-{
-    "City":"Jammu",
-    "CommunityName":"GDG Jammu",
-    "DevFestName":"DevFest Jammu",
-    "Days":"1",
-    "StartingDate":"2022-10-16",
-    "EndingDate":"2022-10-16",
-    "Venue":"Jammu Venue Name",
-    "Description":"This DevFest will be an achievement for the GDG Jammu Team as we are all set to host the 1000+ developers by connecting the dots which we have started since a month. We started with the theme of Building Developers at DevCommunity Roadshow, then Guiding Developers at DevCreate Hackathon and now, ready with the theme - Supporting Developers.",
-    "EventLink":"https://devfest.Jammu.com",
-    "CommunityPage":"https://gdg.community.dev/gdg-Jammu",
-    "Visible":"true",
-    "State":"Jammu",
-    "CFP":{
-        "Status":"1",
-        "Link":"https://devfestindia.com",
-        "LastDate":"2022-10-16"
-    }
-}
 ```
-1. Add your DevFest Information [here](https://github.com/devfestindia/devfest-india-data-2023/blob/main/data/events.json)
-  1. Use `YYYY-MM-DD` format for the Date
-  2. Apply `Visible` status to `true`
-  3. Add your `CFP`
-    1.  `Status`: 1-> If you have a CFP for the DevFest | Otherwise 0
+npm run dev
+
+npm run build
+
+```
 
 ## Features
 | Feature | Description |
