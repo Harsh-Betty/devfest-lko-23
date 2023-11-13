@@ -24,28 +24,23 @@
               </v-fab-transition>
               <h1
                 class="google-font mb-0"
-              >DevFest Lucknow 2023</h1>
+              >GDG Lucknow</h1>
             </v-card-text> 
           </v-col>
         </v-row>
         <v-row justify="center" align="center" class="pb-5">
-          <v-col md="11" sm="11" xl="11" lg="11" cols="12" class="">
-            <a href="https://2022.devfestindia.com" target="_blank"
-              rel="noreferrer"
-              class="grey--text text--darken-3 mr-4 google-font"
-              style="text-decoration:none;"
-            >DevFest India 2022</a>
-            <br class="hidden-md-and-up">
-            
+          <v-col md="11" sm="11" xl="11" lg="11" cols="12" class="">  
             <a href="https://developers.google.com/community/gdg" target="_blank"
               rel="noreferrer"
-              class="grey--text text--darken-3 mr-4 google-font"
+              class="grey--text text--darken-3 mr-10 google-font"
               style="text-decoration:none;"
             >About GDG Program</a>
             <br class="hidden-md-and-up">
+
+
             <a href="https://www.womentechmakers.com/" target="_blank"
               rel="noreferrer"
-              class="grey--text text--darken-3 mr-4 google-font"
+              class="grey--text text--darken-3 mr-10 google-font"
               style="text-decoration:none;"
             >About WTM Program</a>
             
@@ -54,15 +49,19 @@
             <router-link
               to="/faq"
               rel="noreferrer"
-              class="mr-3 google-font grey--text text--darken-3"
+              class="mr-10 google-font grey--text text--darken-3"
               style="text-decoration:none;"
             >FAQ</router-link>
             <br class="hidden-md-and-up">
-            <router-link to="/coc" style="text-decoration:none;" rel="noreferrer" class="mr-3 google-font grey--text text--darken-3">Code of conduct</router-link> 
+
+
+            <router-link to="/coc" style="text-decoration:none;" rel="noreferrer" class="mr-10 google-font grey--text text--darken-3">Code of conduct</router-link> 
             <br class="hidden-md-and-up">
+
+
             <a href="https://developers.google.com/community-guidelines" target="_blank"
               rel="noreferrer"
-              class="mr-4 google-font grey--text text--darken-3"
+              class="mr-10 google-font grey--text text--darken-3"
               style="text-decoration:none;"
             >Community Guidelines</a>
           </v-col>

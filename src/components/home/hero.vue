@@ -16,7 +16,7 @@
         </p>
       </v-col>
       <v-col md="12" cols="12">
-        <img src="@/assets/img/lucknow_illustration.png" alt="devfest banner image" class="hero-image" />
+        <img src="@/assets/img/lucknow_illustration.png" alt="Lucknow Illustration" class="hero-image" />
       </v-col>
     </v-row>
   </v-main>
@@ -39,5 +39,4 @@ export default {
 <style>
 .hero-image {
   max-width: 80vw;
-  object-fit: cover;
 }</style>

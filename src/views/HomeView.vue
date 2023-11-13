@@ -24,7 +24,7 @@ export default {
     
   }),
   created(){
-    document.title = "DevFest India 2023";
+    document.title = "GDG Lucknow";
   }
 };
 </script>
