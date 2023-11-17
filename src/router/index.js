@@ -54,6 +54,14 @@ const routes = [
       title: 'Badge'
     }
   },
+  {
+    path: '/speakers',
+    name: 'speakers',
+    component: () => import(/* webpackChunkName: "badge" */ '../views/SpeakersPage.vue'),
+    meta: {
+      title: 'Speakers'
+    }
+  }
 ]
 
 const router = new VueRouter({
@@ -65,7 +73,7 @@ const router = new VueRouter({
   routes
 })
 
-const DEFAULT_TITLE = 'DevFest Lucknow 2023';
+const DEFAULT_TITLE = 'GDG Lucknow';
 
 router.afterEach((to) => {
   // Use next tick to handle router history correctly

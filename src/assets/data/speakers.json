@@ -1,66 +1,122 @@
 [
     {
         "id": "101",
-        "name": "Harshvardhan Singh",
+        "name": "Rahul Kumar Porwal",
         "company": {
-            "name": "22",
-            "designation": "Student"
+            "name": "AMDOCS",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Web",
-        "image": "avatar.jpg",
-        "bio": "bio",
+        "image": "RahulKPorwal.jpeg",
+        "bio": "Hi, I am Rahul Porwal, a software developer with over seven years of experience in the tech industry. I graduated with a Computer Science degree from Shri Ramswaroop Memorial University. Over the years, I have worked on various modern programming frameworks, including Node.js, exoressJS, Angular, React, React Native and Python. This diverse technical expertise has enabled me to contribute significantly to a wide array of projects. I've worked on everything from complex backend applications using Node.js to crafting engaging and responsive user interfaces with Angular and React. Currently, I am working as a Software Developer at Amdocs, aligning with my commitment to delivering innovative and reliable software solutions. Beyond my technical skills, I am passionate about mentoring junior developers and believe in fostering a culture of continuous learning and innovation within my team. I view software development not just as writing code but as solving real-world problems and making a positive impact through technology. I am excited about the opportunities to contribute and collaborate at DevFest Lucknow 2023.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/rk-tech/",
+            "twitter": "",
+            "web": ""
         }
     },
     {
         "id": "102",
-        "name": "Harshvardhan Singh",
+        "name": "Ankit Pal",
         "company": {
-            "name": "22",
-            "designation": "Student"
+            "name": "Saama AI Research Lab, Chennai",
+            "designation": "Senior Research Engineer"
         },
-        "community_title": "Google Developer Expert for Web",
-        "image": "avatar.jpg",
-        "bio": "bio",
+        "image": "AnkitPal.jpeg",
+        "bio": "Ankit(Aaditya Ura) is a Senior Research Engineer specializing in NLP, deep learning, and machine learning. His research aims to develop machine learning methods in healthcare. He currently works at Saama, conducting research to accelerate clinical trials and reduce drug development timelines. His research interests involve representation learning on graphs, federated learning, explainable AI, and generative language models for healthcare applications.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/aadityaura/",
+            "twitter": "https://twitter.com/aadityaura",
+            "web": "https://aadityaura.github.io/"
         }
     },
     {
         "id": "103",
-        "name": "Harshvardhan Singh",
+        "name": "Pulkit Jain",
         "company": {
-            "name": "22",
-            "designation": "Student"
+            "name": "MTS-1",
+            "designation": "VMware"
         },
-        "community_title": "Google Developer Expert for Web",
-        "image": "avatar.jpg",
-        "bio": "bio",
+        "image": "PulkitJain.jpeg",
+        "bio": "I have keen interest in container networking, cloud computing, and entrepreneurship. Currently at VMware I am working on Antrea, a k8s CNI solution.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/pulkit-jain-87a638172/",
+            "twitter": "",
+            "web": ""
         }
     },
     {
         "id": "104",
-        "name": "Harshvardhan Singh",
+        "name": "Ashish Mishra",
         "company": {
-            "name": "22",
-            "designation": "Student"
+            "name": "Tragglers",
+            "designation": "Founder"
         },
-        "community_title": "Google Developer Expert for Web",
-        "image": "avatar.jpg",
-        "bio": "bio",
+        "image": "AshishMishra.jpeg",
+        "bio": "Ashish Mishra is the founder of Tragglers and a seasoned entrepreneur with a track record as a founding member of multiple successful ventures. Additionally, serving as the Events & Community Manager for Loft Labs. With extensive global experience in organizing tech communities, Ashish has been instrumental in orchestrating key events at Microsoft post the Kinvolk acquisition. Known for bringing prestigious global platforms to his city, he initiated the first TEDx and I/O Extended events and established the local Mozilla community in his city, Lucknow. Committed to providing youth in his city with opportunities and global exposure. As an active member of various organizing committees, he demonstrates unwavering dedication to community engagement and event management, leaving a profound impact on the tech communities he serves.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/join2ashish/",
+            "twitter": "https://twitter.com/join2ashish",
+            "web": ""
+        }
+    },
+    {
+        "id": "105",
+        "name": "Burhanuddin Rashid",
+        "company": {
+            "name": "Juyushi Tech",
+            "designation": ""
+        },
+        "image": "Rashid.jpg",
+        "bio": "I am a Software Craftsman and Open-source enthusiast from India and Google Developer Expert in Flutter. Currently working remotely as Independent Mobile Consultant. I have been working on Android and Kotlin for the past 6 years and the lasts 4 years in Flutter. l am movie freak and a big-time Marvel and Game of Thrones (I was :D) fan. I try to learn and share my knowledge by writing blogs or speaking at conferences.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/burhanuddin-rashid-a16959b1/",
+            "twitter": "https://twitter.com/burhanrashid52",
+            "web": ""
+        }
+    },
+    {
+        "id": "106",
+        "name": "Ashok Vishwakarma",
+        "company": {
+            "name": "Impulsive Web",
+            "designation": "CTO"
+        },
+        "image": "",
+        "bio": "GDE Web Technologies and Angular, 15+ years of Experience, Driving tech for products used and loved by millions of people, acquired a sound knowledge of Web Technologies, System Design, Performance, Database, Cloud, and Tools. Speaks at tech conferences, writes blogs, and contributes to Open Source.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/avishwakarmadev/",
+            "twitter": "https://twitter.com/avishwakarmadev",
+            "web": "https://avishwakarma.dev"
+        }
+    },
+    {
+        "id": "107",
+        "name": "Avirup Basu",
+        "company": {
+            "name": "P360",
+            "designation": "Technical Lead (IoT)"
+        },
+        "image": "AvirupBasu.jpg",
+        "bio": "Avirup is an engineer who builds enterprise IoT systems as a part of his profession. He is also running his own venture to develop SaaS solutions and aerial robots. With over 7 years of experience, he is involved with communities like GDG as an organiser of Siliguri chapter and Intel as an Intel Software Innovator. He is actively involved with the community through different mediums like blogs, YouTube and face 2 face meetups.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/avirup171/",
+            "twitter": "",
+            "web": ""
+        }
+    },
+    {
+        "id": "108",
+        "name": "Vivek Yadav",
+        "company": {
+            "name": "Tata Digital",
+            "designation": "Tech Lead"
+        },
+        "image": "VivekYadav.png",
+        "bio": "Hi, I am Vivek Yadav. I am a Google Developer Expert for Flutter and Dart. I am the Mobile Dev Lead at Tata Digital. I have over 6 years of experience with mobile development and related tech. I am a community organizer of Flutter India, Flutter Mumbai, and the PROCoach community. I love to share things and help the community. I write blogs and produce video content to help the community. I support the community in all possible ways. Twitter, LinkedIn, YouTube, and Discord are some platforms where I am always available to help.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/viveky259",
+            "twitter": "https://twitter.com/viveky259259",
+            "web": ""
         }
     }
 ]

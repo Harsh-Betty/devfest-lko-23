@@ -24,6 +24,12 @@
         </v-list-item-content>
       </v-list-item>
 
+      <v-list-item to="/speakers" class="google-font my-0 py-0" color="blue">
+        <v-list-item-content>
+          <v-list-item-title>Speakers</v-list-item-title>
+        </v-list-item-content>
+      </v-list-item>
+
       <v-list-item to="/team" class="google-font my-0 py-0" color="blue">
         <v-list-item-content>
           <v-list-item-title>Team</v-list-item-title>

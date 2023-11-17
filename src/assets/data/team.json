@@ -1,193 +1,23 @@
 [
     {
         "id": "6000",
-        "name": "Member Name",
+        "name": "Vasundhara Shukla",
         "company": {
-            "name": "Organizer",
-            "designation": ""
+            "name": "Pure Storage",
+            "designation": "Member of Technical Staff"
         },
         "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
+        "image": "Vasundhara.jpg",
+        "bio": "A confident, passionate, determined, and self-taught individual, working as a software engineer, Vasundhara also leads GDG Lucknow. She is also a WTM Ambassador and enjoys community networking. Public speaking, content writing, and marketing are other areas of expertise for her. She is open to new challenges and believes in learning new skills every day!",
         "social": {
-            "linkedin": "https://linkedin.com/",
-            "twitter": "https://twitter.com/",
+            "linkedin": "https://www.linkedin.com/in/vasundhara-shukla/",
+            "twitter": "https://twitter.com/vasundharaas",
             "web": ""
         },
         "type":"Organizer"
     },
     {
         "id": "6001",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "http://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Organizer"
-    },
-    {
-        "id": "6002",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6003",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6004",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6005",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://x.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6006",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://x.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6007",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "http://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6008",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "Google Developer Groups Lucknow",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6009",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "Google Developer Groups Lucknow",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://www.twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6010",
-        "name": "Member Name",
-        "company": {
-            "name": "Google Developer Groups Lucknow",
-            "designation": ""
-        },
-        "community_title": "Google Developer Groups Lucknow",
-        "image": "avatar.jpg",
-        "bio": "bio",
-        "social": {
-            "linkedin": "https://www.linkedin.com/",
-            "twitter": "https://twitter.com/",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
-        "id": "6011",
         "name": "Member Name",
         "company": {
             "name": "Google Developer Groups Lucknow",
