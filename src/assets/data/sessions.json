@@ -3,60 +3,135 @@
         "id": "1001",
         "slide": "",
         "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "description": "",
+        "track": "State Management: What, When and How?",
+        "link": "",
+        "time": "10:15 AM to 10:45 AM (IST)",
         "format": "Day 1",
         "date": "Nov 19, 2023",
-        "timeDuration": "40",
+        "timeDuration": "30",
         "speakers": [
-            101
+            108
         ]
     },
     {
         "id": "1002",
         "slide": "",
         "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "description": "",
+        "track": "A practical guide to GraphQL",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "10:45 AM to 11:15 AM (IST)",
         "format": "Day 1",
         "date": "Nov 19, 2023",
-        "timeDuration": "40",
+        "timeDuration": "30",
         "speakers": [
-            103
+            106
         ]
     },
     {
         "id": "1003",
         "slide": "",
         "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "description": "",
+        "track": "Thriving on Thin Air: Launching Your Business with Minimal Resources",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:15 AM to 11:45 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2023",
-        "timeDuration": "40",
+        "date": "Nov 19, 2023",
+        "timeDuration": "30",
         "speakers": [
-            103, 101
+            104
         ]
     },
     {
         "id": "1004",
         "slide": "",
         "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "description": "",
+        "track": "Exploring the world of IoT using hybrid cloud approach",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:45 AM to 12:00 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2023",
-        "timeDuration": "40",
+        "date": "Nov 19, 2023",
+        "timeDuration": "15",
         "speakers": [
-            104, 102
+            107
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Session 5",
+        "description": "",
+        "track": "A Pragmatic Approach to Use Records and Pattern Matching",
+        "link": "",
+        "time": "12:00 PM to 12:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 19, 2023",
+        "timeDuration": "30",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Session 6",
+        "description": "",
+        "track": "Panel Discussion: Fostering a New Generation of Developers",
+        "link": "",
+        "time": "12:30 PM to 12:45 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 19, 2023",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "1007",
+        "slide": "",
+        "title": "Session 7",
+        "description": "",
+        "track": "Micro Frontends: Decentrelized the Web Architecture",
+        "link": "",
+        "time": "01:45 PM to 02:15 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 19, 2023",
+        "timeDuration": "30",
+        "speakers": [
+            101
+        ]
+    },
+    {
+        "id": "1008",
+        "slide": "",
+        "title": "Session 8",
+        "description": "",
+        "track": "Fine Tuning Open-Source LLMs: Best Practices",
+        "link": "",
+        "time": "02:15 PM to 02:45 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 19, 2023",
+        "timeDuration": "30",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "1009",
+        "slide": "",
+        "title": "Session 9",
+        "description": "",
+        "track": "Containerisation wih Kubernetes",
+        "link": "",
+        "time": "02:45 PM to 03:15 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 19, 2023",
+        "timeDuration": "30",
+        "speakers": [
+            103
         ]
     }
 ]

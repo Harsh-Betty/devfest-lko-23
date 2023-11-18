@@ -61,6 +61,14 @@ const routes = [
     meta: {
       title: 'Speakers'
     }
+  },
+  {
+    path: '/schedule',
+    name: 'schedule',
+    component: () => import(/* webpackChunkName: "badge" */ '../views/SchedulePage.vue'),
+    meta: {
+      title: 'Schedule'
+    }
   }
 ]
 

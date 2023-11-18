@@ -1,27 +1,52 @@
 [
     {
         "day": "1",
-        "date": "",
+        "date": "Nov 19, 2023",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
+                "startTime": "10:15",
+                "endTime": "10:45",
                 "session": 1001
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
+                "startTime": "10:45",
+                "endTime": "11:15",
                 "session": 1002
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
+                "startTime": "11:15",
+                "endTime": "11:45",
                 "session": 1003
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
+                "startTime": "11:45",
+                "endTime": "12:00",
                 "session": 1004
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "12:30",
+                "session": 1005
+            },
+            {
+                "startTime": "12:30",
+                "endTime": "12:45",
+                "session": 1006
+            },
+            {
+                "startTime": "13:45",
+                "endTime": "14:15",
+                "session": 1007
+            },
+            {
+                "startTime": "14:15",
+                "endTime": "14:45",
+                "session": 1008
+            },
+            {
+                "startTime": "14:45",
+                "endTime": "15:15",
+                "session": 1009
             }
         ]
     }

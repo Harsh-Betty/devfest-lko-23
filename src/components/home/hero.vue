@@ -15,7 +15,7 @@
           focused on developers and technical content, and the core audience should be developers.
         </p>
       </v-col>
-      <v-col md="12" cols="12">
+      <v-col md="12" cols="12" class="text-center">
         <img src="@/assets/img/lucknow_illustration.png" alt="Lucknow Illustration" class="hero-image" />
       </v-col>
     </v-row>
