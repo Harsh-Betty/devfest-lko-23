@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "site": "devfest-lko-23",
+      "site": "devfest-lko-2023",
       "public": "dist",
       "ignore": [
         "firebase.json",
