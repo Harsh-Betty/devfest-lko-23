@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "gdglucknow",
     "public": "dist",
     "ignore": [
       "firebase.json",

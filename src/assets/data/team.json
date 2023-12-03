@@ -185,5 +185,22 @@
             "web": ""
         },
         "type":"Volunteer"
+    },
+    {
+        "id": "6011",
+        "name": "Kaustubh Mishra",
+        "company": {
+            "name": "Social Media and Management Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Kaustubh.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
     }
 ]
