@@ -15,5 +15,141 @@
             "web": ""
         },
         "type":"Organizer"
+    },
+    {
+        "id": "6001",
+        "name": "Harshvardhan Singh",
+        "company": {
+            "name": "Web Development Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Harshvardhan.png",
+        "bio": "",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/harshvardhan-singh-ts13/",
+            "twitter": "https://twitter.com/lokis_gettinbi",
+            "web": "https://harshvardhan.codes/"
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6002",
+        "name": "Dhruv Rekhawat",
+        "company": {
+            "name": "Design Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Dhruv.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6003",
+        "name": "Mritunjay Dwivedi",
+        "company": {
+            "name": "Design and Management Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Mritunjay.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6004",
+        "name": "Shaily Tripathi",
+        "company": {
+            "name": "Social Media Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Shaily.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6005",
+        "name": "Charvi Singh",
+        "company": {
+            "name": "Design Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Charvi.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6006",
+        "name": "Arish Ahmad",
+        "company": {
+            "name": "Technical Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Arish.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6007",
+        "name": "Aryan Srivastava",
+        "company": {
+            "name": "Content Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Aryan.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6008",
+        "name": "Shanvi Shukla",
+        "company": {
+            "name": "Management Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Shanvi.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
     }
 ]
