@@ -18,6 +18,23 @@
     },
     {
         "id": "6001",
+        "name": "Abhishek Sahu",
+        "company": {
+            "name": "BFC Capital Pvt. Ltd.",
+            "designation": "Senior Software Engineer"
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Abhishek.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/a-sahu16/",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6009",
         "name": "Harshvardhan Singh",
         "company": {
             "name": "Web Development Team",
@@ -144,6 +161,23 @@
         },
         "community_title": "Google Developer Groups Lucknow",
         "image": "Shanvi.jpg",
+        "bio": "",
+        "social": {
+            "linkedin": "",
+            "twitter": "",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6010",
+        "name": "Akshat Trivedi",
+        "company": {
+            "name": "Media Management Team",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Lucknow",
+        "image": "Akshat.jpg",
         "bio": "",
         "social": {
             "linkedin": "",
